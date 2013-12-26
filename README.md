@@ -1,4 +1,11 @@
-jquery-money-amount-plugin
-==========================
+# Money amount plugin for jQuery
 
-moneyAmount plugin
+Input mask that allows only postive float number. 
+
+Usage
+
+```js
+    $('#amountSent').moneyAmount();
+
+```
+
